@@ -1,0 +1,13 @@
+CHANGELOG
+
+05/01/2023 6pm
+
+-Initial version of the code
+-Implemented functions to draw the game board and check for a win (player v player)
+-Added function to play against the AI
+-Added color to the game board using ncurses library
+-Included a start menu function to choose game mode
+
+5/5/2023 6pm
+-Fixed some minor bugs in playAI, some still exist
+-Created header file to link to cpp file

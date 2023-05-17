@@ -1,0 +1,15 @@
+CONNECT FOUR GAME
+
+This is a simple Connect Four game in C++, using the ncurses library to display the game board and colors.
+
+
+How to Play:
+The game is played on a 7x6 board. The two players take turns placing their symbol (O or X) into a column of the board. The symbol will drop to the bottom-most empty slot in that column. The symbol is placed pressing the numbers 1-7 on your keyboard. Once the game is over you can return to the start menu by pressing any button. When you are at the start menu, you can close the program
+
+The first player to connect four of their symbols in a row (horizontally, vertically, or diagonally) wins the game.
+
+
+Features:
+Play against another human player
+Play against an AI opponent
+When starting the program, you can choose to play against another human player or against the AI. The AI opponent is a simple implementation that chooses a random column to play in.
